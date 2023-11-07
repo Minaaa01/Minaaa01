@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/mina-tawfik-41570a218" target="_blank"><img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="VAIBHAV" height="30" width="40" /></a>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Minaaa01&label=PROFILE+VIEWS&color=lightgrey&style=plastic"/></p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Minaaa01&label=PROFILE+VIEWS&color=lightgrey&style=flat"/></p>
 
 - 🔭 I’m a **Data Analyst**
 
