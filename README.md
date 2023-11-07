@@ -9,11 +9,7 @@
     <a href="https://www.linkedin.com/in/mina-tawfik-41570a218" target="_blank"><img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="VAIBHAV" height="30" width="40" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhzz101&label=Profile%20views&color=0e75b6&style=flat"
-                      alt="vaibhav" />
-    </p>
-    </br> 
-    
+            
 - 🔭 I’m a **Data Analyst**
 
 - 🌱 I’m currently learning **Power BI and Tableau**
