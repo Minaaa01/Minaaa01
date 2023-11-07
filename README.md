@@ -9,7 +9,8 @@
     <a href="https://www.linkedin.com/in/mina-tawfik-41570a218" target="_blank"><img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="VAIBHAV" height="30" width="40" /></a>
-            
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Minaaa01&label=PROFILE+VIEWS&color=lightgrey&style=plastic"/></p>
+
 - 🔭 I’m a **Data Analyst**
 
 - 🌱 I’m currently learning **Power BI and Tableau**
@@ -18,9 +19,6 @@
 
 - 📫 How to reach me
  **minatawfik49@gmail.com**
-
-
-
 - 📃 Look at my [Resume](https://drive.google.com/file/d/1g11cNloWcliCzsbyffEpu8MDctAQI8jD/view?usp=sharing) 
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Minaaa01)
