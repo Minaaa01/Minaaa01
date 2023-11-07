@@ -1,16 +1,30 @@
-### Hi there 👋
+<div align="center">
+      <img src="https://www.caxsol.com/assets/img/data-analysis.gif" width="100" />
+</div>   
+<h1 align="center">Hello 👋, I'm Mina Tawfik</h1>
+<h3 align="center"> A Data Analyst...</h3>
+<h4 align='center' >From Cario, Egypt </h4>
+<hr>
+<p align="center">
+    <a href="https://www.linkedin.com/in/mina-tawfik-41570a218" target="_blank"><img align="center"
+             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="VAIBHAV" height="30" width="40" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhzz101&label=Profile%20views&color=0e75b6&style=flat"
+                      alt="vaibhav" />
+    </p>
+    </br> 
+    
+- 🔭 I’m a **Data Analyst**
 
-<!--
-**Minaaa01/Minaaa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Power BI and Tableau**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **Python, Excel, SQL, Statistics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me
+ **minatawfik49@gmail.com**
+
+
+
+- 📃 Look at my [Resume](https://drive.google.com/file/d/1g11cNloWcliCzsbyffEpu8MDctAQI8jD/view?usp=sharing) 
+
+- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Minaaa01)
