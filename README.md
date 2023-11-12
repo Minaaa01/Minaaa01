@@ -47,9 +47,6 @@
              src="https://www.svgrepo.com/show/452210/git.svg"
              height="30" width="40" /></a>
       <a target="_blank"><img align="center"
-             src="https://www.svgrepo.com/show/374171/vscode.svg"
-             height="30" width="40" /></a>
-      <a target="_blank"><img align="center"
              src="https://www.svgrepo.com/show/373590/excel2.svg"
              height="30" width="40" /></a>
       <a target="_blank"><img align="center"
