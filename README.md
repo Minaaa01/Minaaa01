@@ -31,3 +31,8 @@
 - 📃 Look at my [Resume](https://drive.google.com/file/d/1g11cNloWcliCzsbyffEpu8MDctAQI8jD/view?usp=sharing) 
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Minaaa01)
+
+<h2 align="center"><i></i></h2>
+
+<p align="center"><img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Minaaa01&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p> 
