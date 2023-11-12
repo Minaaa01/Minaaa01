@@ -32,7 +32,29 @@
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Minaaa01)
 
-<h2 align="center"><i></i></h2>
-
-<p align="center"><img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Minaaa01&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p> 
+<h2 align="center"><i>Skills & Abilities</i></h2>
+<p align="center">
+    <a target="_blank"><img align="center"
+             src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
+             height="30" width="40" /></a>
+     <a target="_blank"><img align="center"
+             src="https://www.svgrepo.com/show/452091/python.svg"
+             height="30" width="40" /></a>
+      <a target="_blank"><img align="center"
+             src="https://www.svgrepo.com/show/499816/database.svg"
+             height="30" width="40" /></a>
+      <a target="_blank"><img align="center"
+             src="https://www.svgrepo.com/show/452210/git.svg"
+             height="30" width="40" /></a>
+      <a target="_blank"><img align="center"
+             src="https://www.svgrepo.com/show/374171/vscode.svg"
+             height="30" width="40" /></a>
+      <a target="_blank"><img align="center"
+             src="https://www.svgrepo.com/show/373590/excel2.svg"
+             height="30" width="40" /></a>
+      <a target="_blank"><img align="center"
+             src="https://www.svgrepo.com/show/354428/tableau-icon.svg"
+             height="30" width="40" /></a>
+      <a target="_blank"><img align="center"
+             src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png"
+             height="30" width="40" /></a>
