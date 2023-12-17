@@ -18,8 +18,7 @@
       <a href="https://www.kaggle.com/minaaa01" target="_blank"><img align="center"
              src="https://www.svgrepo.com/show/349422/kaggle.svg"
             alt="VAIBHAV" height="30" width="40" /></a>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Minaaa01&label=PROFILE+VIEWS&color=lightgrey&style=plastic"/></p>
-
+      
 - 🔭 I’m a **Data Analyst**
 
 - 🌱 I’m currently learning **Power BI and Tableau**
