@@ -30,7 +30,7 @@
  **minatawfik49@gmail.com**
 - 📃 Look at my [Resume](https://drive.google.com/file/d/1g11cNloWcliCzsbyffEpu8MDctAQI8jD/view?usp=sharing) 
 
-- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Minaaa01)
+- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Minaaa01?tab=repositories)
 
 <h2 align="center"><i>Skills & Abilities</i></h2>
 <p align="center">
