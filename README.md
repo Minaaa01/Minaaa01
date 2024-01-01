@@ -27,7 +27,7 @@
 
 - 📫 How to reach me
  **minatawfik49@gmail.com**
-- 📃 Look at my [Resume](https://drive.google.com/file/d/1g11cNloWcliCzsbyffEpu8MDctAQI8jD/view?usp=sharing) 
+- 📃 Look at my [Resume](https://drive.google.com/file/d/1e5yyF47SzgCYQ0EhjURyK5z2sA2Zu5gF/view?usp=sharing) 
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Minaaa01?tab=repositories)
 
